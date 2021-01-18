@@ -1,4 +1,4 @@
-![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/400.gif)
+![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/vscode-sparkles-demo.gif)
 
 About me
 
