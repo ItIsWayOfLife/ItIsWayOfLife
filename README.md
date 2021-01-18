@@ -2,6 +2,7 @@
 
 ##I am a student, future junior .net developer
 
-Languages and Tools
+###Languages and Tools
+![.NET](https://img.shields.io/badge/-<.NET>-090909?style=for-the-badge&logo=.NET&logo=.NETlogoColor=47C5FB)
 
 Follow Me
