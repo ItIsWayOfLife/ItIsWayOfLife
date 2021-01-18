@@ -1,4 +1,4 @@
-![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/vscode-sparkles-demo.gif)
+![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/1578251318666.jpg)
 
 ##I am a beginner .net develope
 
