@@ -1,6 +1,6 @@
 ![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/1578251318666.jpg)
 
-##I am a beginner .net develope
+## I am a beginner .net develope
 
 
 ### Languages and Tools:
