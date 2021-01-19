@@ -4,10 +4,13 @@
 
 
 ### Languages and Tools:
+![C#](https://img.shields.io/badge/-Sharp-090909?style=for-the-badge&logo=C&logoColor=E5D3FF)
 ![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logoColor=E5D3FF)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=00648B)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=00648B)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AntonGunko)
