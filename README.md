@@ -19,4 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/antongunko/)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItIsWayOfLifea&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItIsWayOfLifea&show_icons=true&theme=radical)
