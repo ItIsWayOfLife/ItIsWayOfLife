@@ -1,4 +1,4 @@
-![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/dotnet.png)
+![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/code.jpg)
 
 ## I am a beginner .NET Developer
 
