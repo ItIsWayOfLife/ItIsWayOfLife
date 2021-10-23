@@ -1,6 +1,6 @@
 ![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/code.jpg)
 
-## I am a beginner .NET Developer
+## I am a Junior .NET and Angular Developer
 
 
 ### Languages and Tools:
