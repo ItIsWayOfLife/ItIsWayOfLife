@@ -1,11 +1,9 @@
-![Header](https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/code.jpg)
-
 <p align="center">
   <img src="https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/top.svg" width="100%"/>
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/programer.gif" width="200"/>
+  <img src="https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/programer.gif" width="100"/>
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
@@ -26,6 +24,7 @@
 ![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
+
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,5 +41,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AntonGunko)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/antongunko/)
 <p>&nbsp; antongunko@outlook.com</p>
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItIsWayOfLife&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
