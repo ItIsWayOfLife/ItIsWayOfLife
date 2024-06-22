@@ -3,7 +3,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/programer.gif" width="100"/>
+  <img src="https://github.com/ItIsWayOfLife/ItIsWayOfLife/blob/main/assets/programer.gif" width="400"/>
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
