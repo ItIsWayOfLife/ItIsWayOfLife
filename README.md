@@ -7,7 +7,7 @@
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
-<p>&nbsp;Hello, I'm a .NET Developer. I also know front-end technologies. In my free time, I like to write various projects in different programming languages.
+<p>&nbsp;Hello. I'm Anton Hunko and I'm a .NET Developer. i live in Minsk (Belarus). I know front-end technologies. In my free time, I like to write various projects in different programming languages. 
 </p>
 <p>&nbsp;If you want to create something interesting, contact me and I'll be happy to help.
 </P>
